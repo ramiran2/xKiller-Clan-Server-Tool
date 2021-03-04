@@ -1,4 +1,6 @@
-﻿Public Class frmServerToolMain
+﻿Imports Microsoft.VisualBasic.ApplicationServices
+
+Public Class frmServerToolMain
 
     Private Sub FrmServerToolMain_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
