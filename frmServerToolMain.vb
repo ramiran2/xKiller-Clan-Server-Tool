@@ -1,6 +1,6 @@
 ﻿Public Class frmServerToolMain
 
-    Private Sub frmServerToolMain_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+    Private Sub FrmServerToolMain_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
     End Sub
 
